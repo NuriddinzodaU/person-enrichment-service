@@ -1,0 +1,22 @@
+{
+  "api": {
+    "server": {
+      "port": ":8073",
+      "connectionCheckTime":10,
+      "sessionExpirition": 300
+    },
+    "logger": {
+      "debug": true,
+      "info": true,
+      "error": true,
+      "warning": true
+    },
+    "postgres": {
+      "host": "localhost",
+      "port": "5432",
+      "user": "postgres",
+      "dbname": "postgres",
+      "password": "1234"
+    }
+  }
+}

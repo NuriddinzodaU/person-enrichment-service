@@ -1,0 +1,21 @@
+2023-10-31T13:42:05.179+0500	INFO	db/postgres.go:45	Postgres connection success
+2023-10-31T13:42:05.212+0500	INFO	router/router.go:43	Application started
+2023-10-31T13:47:02.063+0500	INFO	router/router.go:48	Application stopped
+2023-10-31T13:47:06.934+0500	INFO	db/postgres.go:45	Postgres connection success
+2023-10-31T13:47:06.965+0500	INFO	router/router.go:43	Application started
+2023-10-31T13:49:22.745+0500	INFO	router/router.go:48	Application stopped
+2023-10-31T13:49:25.102+0500	INFO	db/postgres.go:45	Postgres connection success
+2023-10-31T13:49:25.170+0500	INFO	router/router.go:43	Application started
+2023-10-31T13:50:05.186+0500	INFO	router/router.go:48	Application stopped
+2023-10-31T13:50:07.440+0500	INFO	db/postgres.go:45	Postgres connection success
+2023-10-31T13:50:07.490+0500	INFO	router/router.go:43	Application started
+2023-10-31T13:55:14.716+0500	INFO	router/router.go:48	Application stopped
+2023-10-31T13:55:20.515+0500	INFO	db/postgres.go:47	Postgres connection success
+2023-10-31T13:55:20.564+0500	INFO	router/router.go:43	Application started
+2023-10-31T16:30:09.211+0500	INFO	router/router.go:48	Application stopped
+2023-10-31T16:30:14.750+0500	INFO	db/postgres.go:47	Postgres connection success
+2023-10-31T16:30:14.781+0500	INFO	router/router.go:43	Application started
+2023-10-31T16:31:53.254+0500	INFO	router/router.go:48	Application stopped
+2023-10-31T16:31:58.567+0500	INFO	db/postgres.go:47	Postgres connection success
+2023-10-31T16:31:58.601+0500	INFO	router/router.go:43	Application started
+2023-10-31T17:21:22.721+0500	INFO	router/router.go:48	Application stopped
